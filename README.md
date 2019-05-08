@@ -1,4 +1,4 @@
-# asus-z370-i-hackintosh
+# Asus Z370-i Hackintosh
 
 ## Components
 
