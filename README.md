@@ -1,4 +1,4 @@
-# Asus Z370-i Hackintosh
+# Asus Z370-I Hackintosh
 
 <img src="https://github.com/phine-eredar/asus-z370-i-hackintosh/blob/master/nzxt-z370i.png" width="844" height="720"/>
 
