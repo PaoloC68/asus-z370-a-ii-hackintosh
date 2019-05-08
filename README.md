@@ -36,9 +36,11 @@ These files map the USB ports for the ASUS Z370-I motherboard and fix sleep/wake
 
 ### drivers64UEFI
 
-* ApfsDriverLoader-64.efi - Apple File System support.
-* AptioMemoryFix-64-efi - Allows macOS to boot with UEFI.
-* HFSPlus.efi - HFS+ support.
+| Driver                          | Purpose
+| ------------------------------- | ---
+| ApfsDriverLoader-64.efi         | Apple File System support.
+| AptioMemoryFix-64-efi           | Allows macOS to boot with UEFI.
+| HFSPlus.efi                     | HFS+ support.
 
 ### kexts
 
