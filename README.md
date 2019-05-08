@@ -1,6 +1,6 @@
 # Asus Z370-I Hackintosh
 
-<img src="https://github.com/phine-eredar/asus-z370-i-hackintosh/blob/master/nzxt-h200-asus-z370-i.jpg" width="844" height="720"/>
+<img src="https://github.com/phine-eredar/asus-z370-i-hackintosh/blob/master/nzxt-h200-asus-z370-i.jpg" width="996" height="919"/>
 
 ## Components
 
