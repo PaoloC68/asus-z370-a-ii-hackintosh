@@ -31,8 +31,8 @@
 ### ACPI
 
 These files map the USB ports for the ASUS Z370-I motherboard and fix sleep/wake issues:
-* [/origin/SSDT-LPC.aml](https://github.com/phine-eredar/asus-z370-i-hackintosh/blob/master/SSDT-LPC.aml?raw=true)
-* [/patched/ssdt-usbx.aml](https://github.com/phine-eredar/asus-z370-i-hackintosh/blob/master/ssdt-usbx.aml?raw=true)
+* [/EFI/CLOVER/ACPI/origin/SSDT-LPC.aml](https://github.com/phine-eredar/asus-z370-i-hackintosh/blob/master/SSDT-LPC.aml?raw=true)
+* [/EFI/CLOVER/ACPI/patched/ssdt-usbx.aml](https://github.com/phine-eredar/asus-z370-i-hackintosh/blob/master/ssdt-usbx.aml?raw=true)
 
 ### drivers64UEFI
 
