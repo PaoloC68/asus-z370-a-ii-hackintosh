@@ -18,7 +18,7 @@
 | Fan Controller    | Corsair      | iCUE Commander PRO
 | Top Case Fan      | Noctua       | NF-S12A PWM
 | CPU/GPU Rad Fans  | Noctua       | NF-A12x25 PWM
-| Wi-fi/Bluetooth   | Broadcom     | BCM94352Z (Dell DW1560) M.2 NGFF
+| Wi-fi/Bluetooth   | Dell         | DW1560 M.2 NGFF (Broadcom BCM94352Z)
 
 ## Guides
 
