@@ -18,7 +18,7 @@
 | Fan Controller    | Corsair      | [iCUE Commander PRO](https://www.corsair.com/us/en/Categories/Products/CORSAIR-LINK/iCUE-Commander-PRO-Smart-RGB-Lighting-and-Fan-Speed-Controller/p/CL-9011110-WW)
 | Top Case Fan      | Noctua       | [NF-S12A PWM](https://noctua.at/en/nf-s12a-pwm)
 | CPU/GPU Rad Fans  | Noctua       | [NF-A12x25 PWM](https://noctua.at/en/nf-a12x25-pwm)
-| Wi-fi/Bluetooth   | Dell         | [DW1560 M.2 NGFF (Broadcom BCM94352Z)](https://wikidevi.com/wiki/Dell_Wireless_1560_(DW1560))
+| Wi-Fi/Bluetooth   | Dell         | [DW1560 M.2 NGFF (Broadcom BCM94352Z)](https://wikidevi.com/wiki/Dell_Wireless_1560_(DW1560))
 
 ## EFI
 
@@ -42,7 +42,7 @@ Taken from [mastergyp/ROG-STRIX-z370-i-Mojave-hackintosh](https://github.com/mas
 
 | Kext                                 | Purpose
 | ------------------------------------ | ---
-| AirportBrcmFixup.kext                | Wi-fi
+| AirportBrcmFixup.kext                | Wi-Fi
 | AppleALC.kext                        | Audio
 | BrcmFirmwareData, BrcmPatchRAM2.kext | Bluetooth
 | IntelMausiEthernet.kext              | Ethernet
