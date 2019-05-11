@@ -20,13 +20,7 @@
 | CPU/GPU Rad Fans  | Noctua       | [NF-A12x25 PWM](https://noctua.at/en/nf-a12x25-pwm)
 | Wi-fi/Bluetooth   | Dell         | [DW1560 M.2 NGFF (Broadcom BCM94352Z)](https://wikidevi.com/wiki/Dell_Wireless_1560_(DW1560))
 
-## Guides
-
-## BIOS settings
-
 ## EFI
-
-### config.plist
 
 ### ACPI
 
@@ -56,9 +50,3 @@ Taken from [mastergyp/ROG-STRIX-z370-i-Mojave-hackintosh](https://github.com/mas
 | NoVPAJpeg.kext                       | Fixes preview/quicklook when integrated graphics are disabled
 | VirtualSMC.kext                      | SMC emulator
 | WhateverGreen.kext                   | Patches for GPUs
-
-## What works
-
-## What doesn't work
-
-## Benchmarks
