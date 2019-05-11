@@ -41,21 +41,21 @@ Taken from [mastergyp/ROG-STRIX-z370-i-Mojave-hackintosh](https://github.com/mas
 | Driver                          | Purpose
 | ------------------------------- | ---
 | ApfsDriverLoader-64.efi         | Apple File System support.
-| AptioMemoryFix-64-efi           | Allows macOS to boot with UEFI.
+| AptioMemoryFix-64.efi           | Allows macOS to boot with UEFI.
 | HFSPlus.efi                     | HFS+ support.
 
 ### kexts
 
-| Kext                            | Purpose
-| ------------------------------- | ---
-| AirportBrcmFixup                | Wi-fi
-| AppleALC                        | Audio
-| BrcmFirmwareData, BrcmPatchRAM2 | Bluetooth
-| IntelMausiEthernet              | Ethernet
-| Lilu                            | Kext/process patching
-| NoVPAJpeg                       | Fixes preview/quicklook when integrated graphics are disabled
-| VirtualSMC                      | SMC emulator
-| WhateverGreen                   | Patches for GPUs
+| Kext                                 | Purpose
+| ------------------------------------ | ---
+| AirportBrcmFixup.kext                | Wi-fi
+| AppleALC.kext                        | Audio
+| BrcmFirmwareData, BrcmPatchRAM2.kext | Bluetooth
+| IntelMausiEthernet.kext              | Ethernet
+| Lilu.kext                            | Kext/process patching
+| NoVPAJpeg.kext                       | Fixes preview/quicklook when integrated graphics are disabled
+| VirtualSMC.kext                      | SMC emulator
+| WhateverGreen.kext                   | Patches for GPUs
 
 ## What works
 
