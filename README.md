@@ -50,3 +50,7 @@ Taken from [mastergyp/ROG-STRIX-z370-i-Mojave-hackintosh](https://github.com/mas
 | NoVPAJpeg.kext                       | Fixes preview/quicklook when integrated graphics are disabled
 | VirtualSMC.kext                      | SMC emulator
 | WhateverGreen.kext                   | Patches for GPUs
+
+---
+
+<img src="https://github.com/phine-eredar/asus-z370-i-hackintosh/blob/master/Screen%20Shot%202019-03-20%20at%2012.00.18%20AM.png?raw=true"/>
