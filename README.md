@@ -47,7 +47,6 @@ Taken from [mastergyp/ROG-STRIX-z370-i-Mojave-hackintosh](https://github.com/mas
 | BrcmFirmwareData, BrcmPatchRAM2.kext | Bluetooth
 | IntelMausiEthernet.kext              | Ethernet
 | Lilu.kext                            | Kext/process patching
-| NoVPAJpeg.kext                       | Fixes preview/quicklook when integrated graphics are disabled
 | VirtualSMC.kext                      | SMC emulator
 | WhateverGreen.kext                   | Patches for GPUs
 
