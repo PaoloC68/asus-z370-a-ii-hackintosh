@@ -32,9 +32,9 @@ These files go in `/EFI/CLOVER/ACPI/patched`:
 
 | Driver                          | Purpose
 | ------------------------------- | ---
-| ApfsDriverLoader-64.efi         | Apple File System support.
-| AptioMemoryFix-64.efi           | Allows macOS to boot with UEFI.
-| HFSPlus.efi                     | HFS+ support.
+| ApfsDriverLoader-64.efi         | Apple File System support
+| AptioMemoryFix-64.efi           | Allows macOS to boot with UEFI
+| HFSPlus.efi                     | HFS+ support
 
 ### kexts
 
