@@ -24,11 +24,9 @@
 
 ### ACPI
 
-These files map the USB ports for the ASUS Z370-I motherboard and fix sleep/wake issues:
-* [/EFI/CLOVER/ACPI/origin/SSDT-LPC.aml](https://github.com/phine-eredar/asus-z370-i-hackintosh/blob/master/SSDT-LPC.aml?raw=true)
-* [/EFI/CLOVER/ACPI/patched/ssdt-usbx.aml](https://github.com/phine-eredar/asus-z370-i-hackintosh/blob/master/ssdt-usbx.aml?raw=true)
-
-Taken from [mastergyp/ROG-STRIX-z370-i-Mojave-hackintosh](https://github.com/mastergyp/ROG-STRIX-z370-i-Mojave-hackintosh).
+These files go in /EFI/CLOVER/ACPI/patched:
+* [SSDT-UIAC.aml](https://github.com/phine-eredar/asus-z370-i-hackintosh/blob/master/SSDT-UIAC.aml?raw=true) - USB port mappings
+* [SSDT-USBX.aml](https://github.com/phine-eredar/asus-z370-i-hackintosh/blob/master/SSDT-USBX.aml?raw=true) - USB power properties
 
 ### drivers64UEFI
 
@@ -48,6 +46,7 @@ Taken from [mastergyp/ROG-STRIX-z370-i-Mojave-hackintosh](https://github.com/mas
 | IntelMausiEthernet.kext              | Ethernet
 | Lilu.kext                            | Kext/process patching
 | NoVPAJpeg.kext                       | Fixes preview/quicklook when integrated graphics are disabled
+| USBInjectAll.kext                    | Injects all ports for each USB controller
 | VirtualSMC.kext                      | SMC emulator
 | WhateverGreen.kext                   | Patches for GPUs
 
