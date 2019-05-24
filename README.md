@@ -45,7 +45,6 @@ These files go in `/EFI/CLOVER/ACPI/patched`:
 | BrcmFirmwareData, BrcmPatchRAM2.kext | Bluetooth
 | IntelMausiEthernet.kext              | Ethernet
 | Lilu.kext                            | Kext/process patching
-| NoVPAJpeg.kext                       | Fixes preview/quicklook when integrated graphics are disabled
 | USBInjectAll.kext                    | Injects all ports for each USB controller
 | VirtualSMC.kext                      | SMC emulator
 | WhateverGreen.kext                   | Patches for GPUs
