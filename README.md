@@ -51,7 +51,7 @@ These files go in `/EFI/CLOVER/ACPI/patched`:
 
 ## Screenshots
 
-| ![Boralus](https://github.com/phine-eredar/asus-z370-a-ii-hackintosh/blob/master/screenshots/boralus.jpg) |
+| ![Boralus](https://github.com/phine-eredar/asus-z370-a-ii-hackintosh/blob/master/screenshots/boralus.png) |
 |:--:| 
 | *Boralus* |
 
