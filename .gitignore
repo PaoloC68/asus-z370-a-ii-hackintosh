@@ -1,0 +1,7 @@
+.*
+*.efi
+*.fd
+*.kext
+*.scap
+/EFI/CLOVER/config.plist
+/EFI/CLOVER/themes/*
