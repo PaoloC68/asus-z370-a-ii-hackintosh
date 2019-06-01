@@ -20,6 +20,12 @@
 
 ## EFI
 
+### ACPI
+
+These files go in `/EFI/CLOVER/ACPI/patched`:
+* [SSDT-UIAC.aml](https://github.com/phine-eredar/asus-z370-a-ii-hackintosh/blob/master/SSDT-UIAC.aml?raw=true) - USB port mappings
+* [SSDT-USBX.aml](https://github.com/phine-eredar/asus-z370-a-ii-hackintosh/blob/master/SSDT-USBX.aml?raw=true) - USB power properties
+
 ### drivers64UEFI
 
 | Driver                               | Purpose
@@ -45,14 +51,14 @@
 
 ## Screenshots
 
-| ![Boralus](https://github.com/phine-eredar/asus-z370-i-hackintosh/blob/master/Screen%20Shot%202019-02-25%20at%204.46.13%20PM.jpg) | 
+| ![Boralus](https://github.com/phine-eredar/asus-z370-a-ii-hackintosh/blob/master/Screen%20Shot%202019-02-25%20at%204.46.13%20PM.jpg) | 
 |:--:| 
 | *Boralus* |
 
-| ![Atal'Dazar](https://github.com/phine-eredar/asus-z370-i-hackintosh/blob/master/Screen%20Shot%202019-03-11%20at%2010.00.58%20PM.png) | 
+| ![Atal'Dazar](https://github.com/phine-eredar/asus-z370-a-ii-hackintosh/blob/master/Screen%20Shot%202019-03-11%20at%2010.00.58%20PM.png) | 
 |:--:| 
 | *Atal'Dazar* |
 
-| ![Pandaria](https://github.com/phine-eredar/asus-z370-i-hackintosh/blob/master/Screen%20Shot%202019-03-20%20at%2012.00.18%20AM.png) | 
+| ![Pandaria](https://github.com/phine-eredar/asus-z370-a-ii-hackintosh/blob/master/Screen%20Shot%202019-03-20%20at%2012.00.18%20AM.png) | 
 |:--:| 
 | *Pandaria* |
