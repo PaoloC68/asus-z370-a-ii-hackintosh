@@ -1,5 +1,7 @@
 # Asus Prime Z370-A II Hackintosh
 
+![Asus Prime Z370-A II Hackintosh](https://github.com/phine-eredar/asus-z370-i-hackintosh/blob/master/fractal-meshify-c-hackintosh.jpg)
+
 ## Components
 
 | Component         | Manufacturer   | Model
