@@ -3,5 +3,9 @@
 *.fd
 *.kext
 *.scap
+Clover_Install_Log.txt
 /EFI/CLOVER/config.plist
+/EFI/CLOVER/doc/*
+/EFI/CLOVER/misc/*
+/EFI/CLOVER/OEM/*
 /EFI/CLOVER/themes/*
