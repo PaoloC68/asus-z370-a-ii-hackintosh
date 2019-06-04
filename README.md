@@ -16,7 +16,7 @@
 | Case              | Fractal Design | [Meshify C](https://www.fractal-design.com/home/product/cases/meshify/meshify-c-bko)
 | Power Supply      | Corsair        | [AX850 Titanium](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/AX-Series%E2%84%A2-80-PLUS-Titanium-Power-Supplies/p/CP-9020151-NA)
 | CPU/GPU Rad Fans  | Noctua         | [NF-A12x25 PWM](https://noctua.at/en/nf-a12x25-pwm)
-| Wi-Fi/Bluetooth   | Dell           | [DW1560 M.2 NGFF (Broadcom BCM94352Z)](https://wikidevi.com/wiki/Dell_Wireless_1560_(DW1560))
+| Wi-Fi/Bluetooth   | Broadcom       | BCM943602CD
 
 ## EFI
 
@@ -40,9 +40,7 @@ These files go in `/EFI/CLOVER/ACPI/patched`:
 
 | Kext                                 | Purpose
 | ------------------------------------ | ---
-| AirportBrcmFixup.kext                | Wi-Fi
 | AppleALC.kext                        | Audio
-| BrcmFirmwareData, BrcmPatchRAM2.kext | Bluetooth
 | IntelMausiEthernet.kext              | Ethernet
 | Lilu.kext                            | Kext/process patching
 | USBInjectAll.kext                    | Injects all ports for each USB controller
