@@ -32,8 +32,6 @@ These files go in `/EFI/CLOVER/ACPI/patched`:
 | ------------------------------------ | ---
 | ApfsDriverLoader-64.efi              | Apple File System support
 | AptioMemoryFix-64.efi                | Allows macOS to boot with UEFI
-| AudioDxe.efi                         | UEFI audio driver
-| BootChimeDxe.efi                     | Plays a chime at boot
 | HFSPlus.efi                          | HFS+ support
 
 ### kexts
