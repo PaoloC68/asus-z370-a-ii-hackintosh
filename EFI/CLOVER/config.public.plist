@@ -163,8 +163,6 @@
 	</dict>
 	<key>Boot</key>
 	<dict>
-		<key>DefaultVolume</key>
-		<string>Macintosh HD</string>
 		<key>Timeout</key>
 		<integer>0</integer>
 		<key>XMPDetection</key>
