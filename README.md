@@ -20,12 +20,6 @@
 
 ## EFI
 
-### ACPI
-
-These files go in `/EFI/CLOVER/ACPI/patched`:
-* [SSDT-UIAC.aml](https://github.com/phine-eredar/asus-z370-a-ii-hackintosh/blob/master/EFI/CLOVER/ACPI/patched/SSDT-UIAC.aml?raw=true) - USB port mappings
-* [SSDT-USBX.aml](https://github.com/phine-eredar/asus-z370-a-ii-hackintosh/blob/master/EFI/CLOVER/ACPI/patched/SSDT-USBX.aml?raw=true) - USB power properties
-
 ### drivers64UEFI
 
 | Driver                               | Purpose
