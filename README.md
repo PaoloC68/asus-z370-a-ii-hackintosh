@@ -16,7 +16,7 @@
 | Case              | Fractal Design | [Meshify C](https://www.fractal-design.com/home/product/cases/meshify/meshify-c-bko)
 | Power Supply      | Corsair        | [AX850 Titanium](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/AX-Series%E2%84%A2-80-PLUS-Titanium-Power-Supplies/p/CP-9020151-NA)
 | CPU/GPU Rad Fans  | Noctua         | [NF-A12x25 PWM](https://noctua.at/en/nf-a12x25-pwm)
-| Wi-Fi/Bluetooth   | Broadcom       | BCM943602CD
+| Wi-Fi/Bluetooth   | Broadcom       | [BCM943602CD](https://www.osxwifi.com/product/pc-hackintosh-apple-broadcom-bcm943602cd-802-11-a-b-g-n-ac-bluetooth-4-1-limited-edition/)
 
 ## EFI
 
