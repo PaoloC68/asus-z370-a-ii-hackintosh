@@ -35,7 +35,6 @@
 | AppleALC.kext                        | Audio
 | IntelMausiEthernet.kext              | Ethernet
 | Lilu.kext                            | Kext/process patching
-| USBInjectAll.kext                    | Injects all ports for each USB controller
 | VirtualSMC.kext                      | SMC emulator
 | WhateverGreen.kext                   | Patches for GPUs
 
