@@ -26,14 +26,12 @@
 | ------------------------------------ | ---
 | ApfsDriverLoader-64.efi              | Apple File System support
 | AptioMemoryFix-64.efi                | Allows macOS to boot with UEFI
-| HFSPlus.efi                          | HFS+ support
 
 ### kexts
 
 | Kext                                 | Purpose
 | ------------------------------------ | ---
 | AppleALC.kext                        | Audio
-| IntelMausiEthernet.kext              | Ethernet
 | Lilu.kext                            | Kext/process patching
 | VirtualSMC.kext                      | SMC emulator
 | WhateverGreen.kext                   | Patches for GPUs
