@@ -22,19 +22,19 @@
 
 ### drivers64UEFI
 
-| Driver                               | Purpose
-| ------------------------------------ | ---
-| ApfsDriverLoader-64.efi              | Apple File System support
-| AptioMemoryFix-64.efi                | Allows macOS to boot with UEFI
+| Driver                  | Purpose
+| ----------------------- | ---
+| ApfsDriverLoader-64.efi | Apple File System support
+| AptioMemoryFix-64.efi   | Allows macOS to boot with UEFI
 
 ### kexts
 
-| Kext                                 | Purpose
-| ------------------------------------ | ---
-| AppleALC.kext                        | Audio
-| Lilu.kext                            | Kext/process patching
-| VirtualSMC.kext                      | SMC emulator
-| WhateverGreen.kext                   | Patches for GPUs
+| Kext                    | Purpose
+| ----------------------- | ---
+| AppleALC.kext           | Audio
+| FakeSMC.kext            | SMC emulator
+| Lilu.kext               | Kext/process patching
+| WhateverGreen.kext      | Patches for GPUs
 
 ## Screenshots
 
