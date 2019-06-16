@@ -30,7 +30,6 @@
 
 | Kext               | Purpose
 | ------------------ | ---
-| AppleALC.kext      | Audio
 | FakeSMC.kext       | SMC emulator
 | Lilu.kext          | Kext/process patching
 | WhateverGreen.kext | Patches for GPUs
