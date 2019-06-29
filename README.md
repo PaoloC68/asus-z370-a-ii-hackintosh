@@ -33,7 +33,7 @@
 | Radiators       | EKWB         | [EK-CoolStream SE 360 (Slim Triple)](https://www.ekwb.com/shop/ek-coolstream-se-360-slim-triple)
 | CPU Cooler      | EKWB         | [EK-Velocity - Nickel + Plexi](https://www.ekwb.com/shop/ek-velocity-nickel-plexi)
 | Coolant         | EKWB         | [EK-CryoFuel Clear (Premix 1000mL)](https://www.ekwb.com/shop/ek-cryofuel-clear-premix-1000ml)
-| Bridging Plug   | EKWB         | [EK-ATX Bridging Plug (24 pin)](EKWB EK-ATX Bridging Plug (24 pin))
+| Bridging Plug   | EKWB         | [EK-ATX Bridging Plug (24 pin)](https://www.ekwb.com/shop/ek-atx-bridging-plug-24-pin)
 
 ## EFI
 
