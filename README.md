@@ -44,7 +44,7 @@
 | ApfsDriverLoader-64.efi | Apple File System support
 | AptioMemoryFix-64.efi   | Allows macOS to boot with UEFI
 
-When booting from a USB drive (e.g. for an installer), VBoxHfs-64.efi is required.
+* When booting from a USB drive (e.g. for an installer), VBoxHfs-64.efi is required.
 
 ### kexts
 
@@ -54,9 +54,9 @@ When booting from a USB drive (e.g. for an installer), VBoxHfs-64.efi is require
 | Lilu.kext          | Kext/process patching
 | WhateverGreen.kext | Patches for GPUs
 
-Audio: I use USB speakers/headset. I don't use the motherboard or front panel 3.5mm audio. If I did, I would need AppleALC.kext.
-Ethernet: I use WiFi for internet access. If I needed Ethernet, I would need IntelMausi.kext.
-USB: All of my USB ports seem to work, my computer can sleep/wake/shutdown, and I don't have any USB devices that would benefit from USB 3 speeds. If any of these were not the case, I would need USBInjectAll.kext and ACPI patches produced by usbmap.
+* Audio: I use USB speakers/headset. I don't use the motherboard or front panel 3.5mm audio. If I did, I would need AppleALC.kext.
+* Ethernet: I use WiFi for internet access. If I needed Ethernet, I would need IntelMausi.kext.
+* USB: All of my USB ports seem to work, my computer can sleep/wake/shutdown, and I don't have any USB devices that would benefit from USB 3 speeds. If any of these were not the case, I would need USBInjectAll.kext and ACPI patches produced by usbmap.
 
 ## Screenshots
 
