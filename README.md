@@ -11,7 +11,6 @@
 | Storage         | Samsung      | [970 EVO 1TB - NVMe PCIe M.2 2280 SSD](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-nvme-m-2-1tb-mz-v7e1t0bw/)
 | Video Card      | AMD          | [Radeon VII](https://www.amd.com/en/products/graphics/amd-radeon-vii)
 | GPU Cooler      | AlphaCool    | [Alphacool Eiswolf 240 GPX Pro AMD Radeon VII M02 ](https://www.alphacool.com/shop/new-products/24996/alphacool-eiswolf-240-gpx-pro-amd-radeon-vii-m02-black)
-| PCIE Riser      | Phanteks     | [Phanteks PH-CBRS_PR22](http://www.phanteks.com/Riser-Cables.html)
 | Case            | Phanteks     | [Enthoo Evolv X Galaxy Silver](http://www.phanteks.com/Enthoo-Evolv-X.html)
 | Power Supply    | Corsair      | [AX850 Titanium](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/AX-Series%E2%84%A2-80-PLUS-Titanium-Power-Supplies/p/CP-9020151-NA)
 | Radiator Fans   | Noctua       | [NF-F12 PWM](https://noctua.at/en/nf-f12-pwm)
