@@ -40,17 +40,3 @@
 * Audio: I use USB speakers/headset. I don't use the motherboard or front panel 3.5mm audio. If I did, I would need AppleALC.kext.
 * Ethernet: I use WiFi for internet access. If I needed Ethernet, I would need IntelMausi.kext.
 * USB: All of my USB ports seem to work, my computer can sleep/wake/shutdown, and I don't have any USB devices that would benefit from USB 3 speeds. If any of these were not the case, I would need USBInjectAll.kext and ACPI patches produced by usbmap.
-
-## Screenshots
-
-| ![Boralus](https://github.com/phine-eredar/asus-z370-a-ii-hackintosh/blob/master/screenshots/boralus.png) |
-|:--:| 
-| *Boralus* |
-
-| ![Atal'Dazar](https://github.com/phine-eredar/asus-z370-a-ii-hackintosh/blob/master/screenshots/ataldazar.png) |
-|:--:| 
-| *Atal'Dazar* |
-
-| ![Pandaria](https://github.com/phine-eredar/asus-z370-a-ii-hackintosh/blob/master/screenshots/pandaria.png) |
-|:--:| 
-| *Pandaria* |
