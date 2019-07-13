@@ -20,7 +20,7 @@
 
 ## EFI
 
-### drivers64UEFI
+### drivers/UEFI
 
 | Driver                  | Purpose
 | ----------------------- | ---
@@ -29,7 +29,7 @@
 
 * When booting from a USB drive (e.g. for an installer), VBoxHfs-64.efi is required.
 
-### kexts
+### kexts/Other
 
 | Kext               | Purpose
 | ------------------ | ---
