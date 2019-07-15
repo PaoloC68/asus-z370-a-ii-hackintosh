@@ -33,10 +33,28 @@
 
 | Kext               | Purpose
 | ------------------ | ---
-| VirtualSMC.kext       | SMC emulator
+| VirtualSMC.kext    | SMC emulator
 | Lilu.kext          | Kext/process patching
 | WhateverGreen.kext | Patches for GPUs
 
 * Audio: I use USB speakers/headset. I don't use the motherboard or front panel 3.5mm audio. If I did, I would need AppleALC.kext.
 * Ethernet: I use WiFi for internet access. If I needed Ethernet, I would need IntelMausi.kext.
 * USB: All of my USB ports seem to work, my computer can sleep/wake/shutdown, and I don't have any USB devices that would benefit from USB 3 speeds. If any of these were not the case, I would need USBInjectAll.kext and ACPI patches produced by usbmap.
+
+## Power
+
+| Name             | Value
+| ---------------- | --
+| Sleep            | On
+| autorestart      | 0
+| disksleep        | 10
+| displaysleep     | 10
+| hibernatefile    | /var/vm/sleepimage
+| hibernatemode    | 0
+| networkoversleep | 0
+| powernap         | 0
+| proximitywake    | 0
+| sleep            | 1
+| tcpkeepalive     | 1
+| ttyskeepawake    | 1
+| womp             | 0
