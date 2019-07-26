@@ -10,8 +10,6 @@
 			<dict>
 				<key>AddMCHC</key>
 				<true/>
-				<key>FixHDA</key>
-				<true/>
 				<key>FixHPET</key>
 				<true/>
 				<key>FixIPIC</key>
@@ -51,20 +49,6 @@
 					<key>Replace</key>
 					<data>
 					WEhDXw==
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change SAT0 to SATA</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					U0FUMA==
-					</data>
-					<key>Replace</key>
-					<data>
-					U0FUQQ==
 					</data>
 				</dict>
 				<dict>
@@ -109,62 +93,6 @@
 					RUNfXw==
 					</data>
 				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change HECI to IMEI</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					SEVDSQ==
-					</data>
-					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change MEI to IMEI</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					TUVJXw==
-					</data>
-					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change GFX0 to IGPU</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					R0ZYMA==
-					</data>
-					<key>Replace</key>
-					<data>
-					SUdQVQ==
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change PEGP to GFX0</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					UEVHUA==
-					</data>
-					<key>Replace</key>
-					<data>
-					R0ZYMA==
-					</data>
-				</dict>
 			</array>
 		</dict>
 		<key>DropTables</key>
@@ -196,22 +124,8 @@
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
-	<key>BootGraphics</key>
-	<dict>
-		<key>EFILoginHiDPI</key>
-		<integer>1</integer>
-		<key>UIScale</key>
-		<integer>2</integer>
-	</dict>
 	<key>Devices</key>
 	<dict>
-		<key>Audio</key>
-		<dict>
-			<key>Inject</key>
-			<integer>7</integer>
-			<key>ResetHDA</key>
-			<true/>
-		</dict>
 		<key>USB</key>
 		<dict>
 			<key>FixOwnership</key>
@@ -227,10 +141,6 @@
 			<key>Tool</key>
 			<true/>
 		</dict>
-		<key>ScreenResolution</key>
-		<string>3840x2160</string>
-		<key>Theme</key>
-		<string>next-black</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -248,27 +158,6 @@
 	<dict>
 		<key>KernelPm</key>
 		<true/>
-		<key>KextsToPatch</key>
-		<array>
-			<dict>
-				<key>Comment</key>
-				<string>External Icons Patch</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				RXh0ZXJuYWw=
-				</data>
-				<key>InfoPlistPatch</key>
-				<false/>
-				<key>Name</key>
-				<string>AppleAHCIPort</string>
-				<key>Replace</key>
-				<data>
-				SW50ZXJuYWw=
-				</data>
-			</dict>
-		</array>
 	</dict>
 	<key>RtVariables</key>
 	<dict>
