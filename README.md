@@ -26,7 +26,7 @@
 | ApfsDriverLoader.efi | Apple File System support
 | AptioMemoryFix.efi   | Allows macOS to boot with UEFI
 
-* When booting from a USB drive (e.g. for an installer), VBoxHfs-64.efi is required.
+* When booting from a USB drive (e.g. for an installer), VBoxHfs.efi is required.
 
 ### kexts/Other
 
