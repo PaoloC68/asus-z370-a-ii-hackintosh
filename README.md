@@ -13,7 +13,7 @@
 | GPU Cooler      | AlphaCool    | [Alphacool Eiswolf 240 GPX Pro AMD Radeon VII M02](https://www.alphacool.com/shop/new-products/24996/alphacool-eiswolf-240-gpx-pro-amd-radeon-vii-m02-black)
 | Case            | Phanteks     | [Enthoo Evolv X Galaxy Silver](http://www.phanteks.com/Enthoo-Evolv-X.html)
 | Power Supply    | Corsair      | [AX850 Titanium](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/AX-Series%E2%84%A2-80-PLUS-Titanium-Power-Supplies/p/CP-9020151-NA)
-| Radiator Fans   | Noctua       | [NF-F12 PWM](https://noctua.at/en/nf-f12-pwm), [NF-A14 PWM](https://noctua.at/en/nf-a14-pwm)
+| Radiator Fans   | Noctua       | [NF-A12x25 PWM](https://noctua.at/en/nf-a12x25-pwm), [NF-A14 PWM](https://noctua.at/en/nf-a14-pwm)
 | Case Fans       | Noctua       | [NF-A14 PWM](https://noctua.at/en/nf-a14-pwm)
 | Wi-Fi/Bluetooth | Broadcom     | [BCM943602CD](https://www.osxwifi.com/product/pc-hackintosh-apple-broadcom-bcm943602cd-802-11-a-b-g-n-ac-bluetooth-4-1-limited-edition/)
 
